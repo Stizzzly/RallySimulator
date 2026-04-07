@@ -10,8 +10,8 @@
 #include <ctime>
 
 // --- КОНСТАНТЫ ---
-const int SCREEN_WIDTH = 960;
-const int SCREEN_HEIGHT = 640;
+const int SCREEN_WIDTH = 960; // iPhone 4S resolution
+const int SCREEN_HEIGHT = 640; // iPhone 4S resolution
 const float DEG2RAD = 3.14159f / 180.0f;
 const float ROAD_WIDTH = 10.0f;
 const float CURB_WIDTH = 1.5f;
