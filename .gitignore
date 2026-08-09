@@ -1,0 +1,17 @@
+# PS3/PSL1GHT generated files
+*.o
+*.d
+*.map
+*.elf
+*.self
+*.fake.self
+*.pkg
+*.gnpdrm.pkg
+build/
+ps3/rsxgl/build/
+ps3/rsxgl/*.vpo
+ps3/rsxgl/*.fpo
+ps3/rsxgl/*.vpo.o
+ps3/rsxgl/*.fpo.o
+ps3/rsxgl/*_vert.h
+ps3/rsxgl/*_frag.h
