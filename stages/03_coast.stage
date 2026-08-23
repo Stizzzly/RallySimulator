@@ -1,0 +1,10 @@
+name=Coastline Sprint
+theme=coast
+length=7600
+gold=140
+silver=166
+bronze=198
+checkpoint_interval=1260
+fog_r=0.45
+fog_g=0.70
+fog_b=0.88

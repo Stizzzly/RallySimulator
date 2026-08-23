@@ -1,0 +1,10 @@
+name=Pine Run
+theme=forest
+length=6900
+gold=138
+silver=162
+bronze=192
+checkpoint_interval=1150
+fog_r=0.34
+fog_g=0.55
+fog_b=0.38

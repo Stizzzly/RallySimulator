@@ -1,0 +1,10 @@
+name=Mountain Pass
+theme=mountain
+length=7200
+gold=132
+silver=156
+bronze=186
+checkpoint_interval=1200
+fog_r=0.42
+fog_g=0.60
+fog_b=0.86
